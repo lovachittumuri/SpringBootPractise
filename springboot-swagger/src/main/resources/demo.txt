@@ -1,0 +1,6 @@
+http://localhost:4545
+
+http://localhost:4545/v2/api-docs
+
+http://localhost:4545/swagger-ui.html
+
