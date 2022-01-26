@@ -1,0 +1,24 @@
+Inputs : 
+
+
+	{
+        "name": "Lova Chittumuri",
+        "email": "lova.anand@gmail.com"
+    }
+	
+    {
+        "name": "Ramu Chittumuri",
+        "email": "ramu.anand@gmail.com"
+    }
+	
+    {
+        "name": "syam Chittumuri",
+        "email": "syam.anand@gmail.com"
+    }
+    
+ Urls : 
+ 
+ http://localhost:1111/database-connections/getData
+ 
+ http://localhost:1111/database-connections/
+ 
