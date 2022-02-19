@@ -24,3 +24,13 @@ Inputs :
  
  
  Testing Created the Branches
+ 
+ 
+ For the Curl:
+ 
+ curl -v http://localhost:7070/LovaChittumuri
+ 
+ 
+ curl -v http://localhost:7070/getData
+ 
+ 
